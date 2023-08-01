@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MPLayer</string>
+    <string name="_0_20">0:20</string>
+    <string name="_5_15">5:15</string>
+    <string name="new_song_is_loading">New Song is Loading.....</string>
+    <string name="fastbackward">fastBackward</string>
+    <string name="play">play</string>
+    <string name="Play">play</string>
+    <string name="Next">next</string>
+    <string name="Rewind">rewind</string>
+    <string name="FasrForward">fastForward</string>
+</resources>
